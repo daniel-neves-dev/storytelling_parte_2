@@ -1,15 +1,12 @@
 <h1>Data Analytics com Power BI</h1> 
 
-<h2>Desafio 5 - Parte 2: Criando Relatório de Vendas
-<p></p>
-Objetivo:</h2>
+<h2>Desafio 5 - Parte 2: Criando Relatório de Vendas</h2>
 
-<p>Este projeto foi desenvolvido como parte do Bootcamp NTT DATA Engenharia de Dados com Python, oferecido pela Digital Innovation One (DIO). O foco deste desafio é criar um relatório de vendas utilizando os conceitos de data analystics, modelagem star schema,
-navegação entre páginas com botões, gráficos de dispersão, limpeza e transformação de dados, experiência do usuário, formulas DAX, mesclagem de tabelas, e todos os conhecimentos adquiridos durante o bootcamp.</p>
+<h3>Objetivo:</h3>
 
+<p>Este projeto foi desenvolvido como parte do Bootcamp NTT DATA Engenharia de Dados com Python, oferecido pela Digital Innovation One (DIO). O foco deste desafio é criar um relatório de vendas utilizando os conceitos de data analytics, modelagem star schema, navegação entre páginas com botões, gráficos de dispersão, limpeza e transformação de dados, experiência do usuário, fórmulas DAX, mesclagem de tabelas e todos os conhecimentos adquiridos durante o bootcamp.</p>
 
-<h3> Primeiro passo: limpeza e transformação de dados. </h3>
-
+<h3>Primeiro passo: Limpeza e transformação de dados.</h3>
 <h4> Tabelas:</h4>
 
 -------------------------------------------------------
