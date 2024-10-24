@@ -49,7 +49,7 @@ navegação entre páginas com botões, gráficos de dispersão, limpeza e trans
 <p>Esta página apresenta uma visão geral das vendas brutas, líquidas, descontos, lucro e COGS (Custo das Mercadorias Vendidas). Inclui um gráfico de vendas por período, distribuição das vendas por segmento e uma visão de vendas brutas por país, destacando os principais mercados, como Estados Unidos, Canadá e França.</p>
 
 -------------------------------------------------------
-
+![pagina1](https://github.com/user-attachments/assets/be400db4-b3f4-46c9-aa44-033921d247d2)
 -------------------------------------------------------
 
 <h4>Página 2: Vendas por Produto e Período</h4>
@@ -57,7 +57,7 @@ navegação entre páginas com botões, gráficos de dispersão, limpeza e trans
 <p>Focando nas unidades vendidas e vendas brutas, esta página exibe gráficos de dispersão que mostram a relação entre a quantidade vendida e o lucro, tanto por produto quanto por mês. Isso permite uma análise detalhada do desempenho de cada produto ao longo do tempo.</p>
 
 -------------------------------------------------------
-
+![pagina2](https://github.com/user-attachments/assets/0cc749ca-85e3-4766-89a6-10bf0496aab7)
 -------------------------------------------------------
 
 <h4>Página 3: Detalhes de Vendas</h4>
@@ -65,7 +65,7 @@ navegação entre páginas com botões, gráficos de dispersão, limpeza e trans
 <p>Nesta página, temos uma visão detalhada das vendas por semestre e ano, além de histogramas que mostram a quantidade de unidades vendidas e a distribuição das vendas por produto. Também há uma tabela que detalha as vendas por trimestre.</p>
 
 -------------------------------------------------------
-
+![pagina3](https://github.com/user-attachments/assets/b2b02bd1-96b6-4796-b428-fa5d7cd96aa8)
 -------------------------------------------------------
 
 <h4>Página 4: Top 3 Produtos</h4>
@@ -73,7 +73,7 @@ navegação entre páginas com botões, gráficos de dispersão, limpeza e trans
 <p>Esta página foca nos três produtos mais vendidos em cada país, apresentando gráficos de barras que comparam a venda bruta e os principais produtos em cada mercado. Também há gráficos circulares que mostram o lucro e as vendas por mês, oferecendo uma visão clara do desempenho mensal.</p>
 
 -------------------------------------------------------
-
+![pagina4](https://github.com/user-attachments/assets/edd81bda-88fe-48d9-a4ad-14e6c08bf472)
 -------------------------------------------------------
 
 <h4>Página 5: Top 3 Países</h4>
@@ -81,7 +81,7 @@ navegação entre páginas com botões, gráficos de dispersão, limpeza e trans
 <p>Por fim, esta página destaca os três países com as maiores vendas. Os gráficos de barras mostram a venda máxima e os três principais produtos em cada país. Um gráfico circular ilustra a participação percentual dos países em relação às vendas máximas.</p>
 
 -------------------------------------------------------
-
+![pagina5](https://github.com/user-attachments/assets/75b9bba9-05aa-437b-b33e-25ba008ba1c3)
 -------------------------------------------------------
 
 ## Tecnologia usada.
@@ -90,7 +90,7 @@ navegação entre páginas com botões, gráficos de dispersão, limpeza e trans
 -----------------------------------------------------------
 ### Como Executar:
 
-1 - Faça o download do arquivo .pbix (storytellying_1).
+1 - Faça o download do arquivo .pbix (storytellying_2).
 
 2 - Abra o arquivo no Power BI Desktop.
 
